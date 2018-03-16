@@ -1,1 +1,1 @@
-web: python botPony.py
+worker: python botPony.py
